@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Viet Anh 👨‍💻
 - 👨🏻‍💻 I'm studying at University of Information Technology, Vietnam National University - Ho Chi Minh City.
 - 🔭 I'm an intership at [team AI, Sunshine TECH company](https://sunshinetech.vn/)
-- 💡 I love innovation and presentation.
-- 🥅 Goals: Collect and share more knowledge with others.
+- 💡 I love innovation, presentation and sharing more knowledge with others.
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)

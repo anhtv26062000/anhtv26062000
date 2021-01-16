@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 [![Vietnamese AttentionOCR](https://img.shields.io/badge/-📝%20Vietnamese%20Attention%20OCR-fff?)](https://github.com/buiquangmanhhp1999/VietnameseAttentionOCR)
 [![VietnameseSentencesOcr](https://img.shields.io/badge/-📝%20Vietnamese%20Sentences%20%20OCR-fff?)](https://github.com/buiquangmanhhp1999/VietnameseRCNN)
 
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+
 -->
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Viet Anh 👨‍💻
@@ -41,4 +44,10 @@ Here are some ideas to get you started:
 * 🖇️ OpenCV | Pillow
 * :octocat: Git | Github
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=anhtv26062000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtv26062000&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+### Technologies
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello&logoColor=0079BF)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira&logoColor=0052CC)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=anhtv26062000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" img witdh="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtv26062000&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>

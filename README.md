@@ -22,8 +22,8 @@
 -->
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Viet Anh 👨‍💻
-- 👨🏻‍💻 I'm studying at University of Information Technology, Vietnam National University - Ho Chi Minh City.
-- 🔭 I'm an intership at [team AI, Sunshine TECH company](https://sunshinetech.vn/)
+- 👨🏻‍💻 I'm studying at [University of Information Technology, Vietnam National University - Ho Chi Minh City.](https://www.uit.edu.vn/)
+- 🔭 I'm an internship at [team AI, Sunshine TECH company](https://sunshinetech.vn/)
 - 💡 I love innovation, presentation and sharing more knowledge with others.
 
 ### Languages
